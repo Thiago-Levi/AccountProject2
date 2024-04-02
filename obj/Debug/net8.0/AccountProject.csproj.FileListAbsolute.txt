@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Projetos\AccountProject\bin\Debug\net8.0\AccountProject.exe
+C:\Users\User\Documents\Projetos\AccountProject\bin\Debug\net8.0\AccountProject.deps.json
+C:\Users\User\Documents\Projetos\AccountProject\bin\Debug\net8.0\AccountProject.runtimeconfig.json
+C:\Users\User\Documents\Projetos\AccountProject\bin\Debug\net8.0\AccountProject.dll
+C:\Users\User\Documents\Projetos\AccountProject\bin\Debug\net8.0\AccountProject.pdb
+C:\Users\User\Documents\Projetos\AccountProject\obj\Debug\net8.0\AccountProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Projetos\AccountProject\obj\Debug\net8.0\AccountProject.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Projetos\AccountProject\obj\Debug\net8.0\AccountProject.AssemblyInfo.cs
+C:\Users\User\Documents\Projetos\AccountProject\obj\Debug\net8.0\AccountProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projetos\AccountProject\obj\Debug\net8.0\AccountProject.dll
+C:\Users\User\Documents\Projetos\AccountProject\obj\Debug\net8.0\refint\AccountProject.dll
+C:\Users\User\Documents\Projetos\AccountProject\obj\Debug\net8.0\AccountProject.pdb
+C:\Users\User\Documents\Projetos\AccountProject\obj\Debug\net8.0\AccountProject.genruntimeconfig.cache
+C:\Users\User\Documents\Projetos\AccountProject\obj\Debug\net8.0\ref\AccountProject.dll
